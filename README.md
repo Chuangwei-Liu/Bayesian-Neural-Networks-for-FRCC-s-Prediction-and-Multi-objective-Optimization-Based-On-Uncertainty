@@ -1,1 +1,1 @@
-# Bayesian-Neural-Networks-for-FRCC-s-Prediction-and-Multi-objective-Optimization-Based-On-Uncertainty
+# Bayesian-Neural-Networks-for-FRCCs-Prediction-and-Multi-objective-Optimization-Based-On-Uncertainty
